@@ -109,10 +109,5 @@ Distributed under the MIT License. See `LICENSE` for more details.
 
 ---
 
-## 💬 Contact  
-For questions, feedback, or collaboration opportunities:  
-- **Email**: sandy974278@gmail.com  
-- **GitHub**: [SandeepGitGuy](https://github.com/SandeepGitGuy)  
-- **LinkedIn**: [Sandeep Gowda](https://www.linkedin.com/in/sandeepgowda24a319192)  
 
 ---
